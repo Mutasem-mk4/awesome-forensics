@@ -86,6 +86,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [mig](https://github.com/mozilla/mig) - Distributed & real time digital forensics at the speed of the cloud
 - [osquery](https://github.com/osquery/osquery) - SQL powered operating system analytics
 - [POFR](https://github.com/gmagklaras/pofr) - The Penguin OS Flight Recorder collects, stores and organizes for further analysis process execution, file access and network/socket endpoint data from the Linux Operating System.
+- [procscope](https://mutasem-mk4.github.io/procscope/) - Digital forensics and runtime investigation tool using eBPF for deep process, file, and network state capture with Kubernetes metadata resolution.
 - [UAC](https://github.com/tclahr/uac) - UAC (Unix-like Artifacts Collector) is a Live Response collection script for Incident Response that makes use of native binaries and tools to automate the collection of AIX, Android, ESXi, FreeBSD, Linux, macOS, NetBSD, NetScaler, OpenBSD and Solaris systems artifacts.
 
 ### IOC Scanner
