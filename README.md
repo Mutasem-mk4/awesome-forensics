@@ -1,4 +1,4 @@
-# Awesome Forensics [![Link Status](https://github.com/cugu/awesome-forensics/workflows/CI/badge.svg)](https://github.com/cugu/awesome-forensics)
+﻿# Awesome Forensics [![Link Status](https://github.com/cugu/awesome-forensics/workflows/CI/badge.svg)](https://github.com/cugu/awesome-forensics)
 
 Curated list of awesome **free** (mostly open source) forensic analysis tools and resources.
 
@@ -43,7 +43,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 ## Collections
 
-- [AboutDFIR – The Definitive Compendium Project](https://aboutdfir.com) - Collection of forensic resources for learning and research. Offers lists of certifications, books, blogs, challenges and more
+- [AboutDFIR â€“ The Definitive Compendium Project](https://aboutdfir.com) - Collection of forensic resources for learning and research. Offers lists of certifications, books, blogs, challenges and more
 - :star: [ForensicArtifacts.com Artifact Repository](https://github.com/ForensicArtifacts/artifacts) - Machine-readable knowledge base of forensic artifacts
 
 ## Tools
@@ -65,7 +65,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - :star:[Autopsy](http://www.sleuthkit.org/autopsy/) - SleuthKit GUI
 - [dexter](https://github.com/coinbase/dexter) - Dexter is a forensics acquisition framework designed to be extensible and secure
 - [dff](https://github.com/arxsys/dff) - Forensic framework
-- [Dissect](https://github.com/fox-it/dissect) - Dissect is a digital forensics & incident response framework and toolset that allows you to quickly access and analyse forensic artefacts from various disk and file formats, developed by Fox-IT (part of NCC Group).
+- [Dissect](https://github.com/fox-it/dissect) - DissectÂ isÂ aÂ digitalÂ forensicsÂ &Â incidentÂ responseÂ frameworkÂ andÂ toolsetÂ thatÂ allowsÂ youÂ toÂ quicklyÂ accessÂ andÂ analyseÂ forensicÂ artefactsÂ fromÂ variousÂ disk and fileÂ formats,Â developedÂ byÂ Fox-IT (part of NCC Group).
 - [hashlookup-forensic-analyser](https://github.com/hashlookup/hashlookup-forensic-analyser) - A tool to analyse files from a forensic acquisition to find known/unknown hashes from [hashlookup](https://www.circl.lu/services/hashlookup/) API or using a local Bloom filter.
 - [IntelMQ](https://github.com/certtools/intelmq) - IntelMQ collects and processes security feeds
 - [Kuiper](https://github.com/DFIRKuiper/Kuiper) - Digital Investigation Platform
@@ -75,10 +75,11 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [TAPIR](https://github.com/tap-ir/tapir) - TAPIR (Trustable Artifacts Parser for Incident Response) is a multi-user, client/server, incident response framework
 - :star: [The Sleuth Kit](https://github.com/sleuthkit/sleuthkit) - Tools for low level forensic analysis
 - [turbinia](https://github.com/google/turbinia) - Turbinia is an open-source framework for deploying, managing, and running forensic workloads on cloud platforms
-- [IPED - Indexador e Processador de Evidências Digitais](https://github.com/sepinf-inc/IPED) - Brazilian Federal Police Tool for Forensic Investigations
+- [IPED - Indexador e Processador de EvidÃªncias Digitais](https://github.com/sepinf-inc/IPED) - Brazilian Federal Police Tool for Forensic Investigations
 - [Wombat Forensics](https://github.com/pjrinaldi/wombatforensics) - Forensic GUI tool
 
 ### Live Forensics
+
 
 - [grr](https://github.com/google/grr) - GRR Rapid Response: remote live forensics for incident response
 - [InnerWarden](https://github.com/InnerWarden/innerwarden) - Security agent with built-in forensic capture (process state, network connections, memory maps, hidden process detection via direct /proc reads)
@@ -304,7 +305,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 *more at [Recommended Readings](http://dfir.org/?q=node/8) by Andrew Case*
 
-- [Network Forensics: Tracking Hackers through Cyberspace](https://www.pearson.com/en-us/subject-catalog/p/Davidoff-Network-Forensics-Tracking-Hackers-through-Cyberspace/P200000009228) - Learn to recognize hackers’ tracks and uncover network-based evidence
+- [Network Forensics: Tracking Hackers through Cyberspace](https://www.pearson.com/en-us/subject-catalog/p/Davidoff-Network-Forensics-Tracking-Hackers-through-Cyberspace/P200000009228) - Learn to recognize hackersâ€™ tracks and uncover network-based evidence
 - [The Art of Memory Forensics](https://memoryanalysis.net/amf/) - Detecting Malware and Threats in Windows, Linux, and Mac Memory
 - [The Practice of Network Security Monitoring](https://nostarch.com/nsm) - Understanding Incident Detection and Response
 
@@ -316,7 +317,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 ### Other
 
 - [/r/computerforensics/](https://www.reddit.com/r/computerforensics/) - Subreddit for computer forensics
-- [CybersecurityGuide – Digital Forensics Careers](https://cybersecurityguide.org/careers/digital-forensics/) - Guide on skills, certs, and career paths in cyber forensics.
+- [CybersecurityGuide â€“ Digital Forensics Careers](https://cybersecurityguide.org/careers/digital-forensics/) - Guide on skills, certs, and career paths in cyber forensics.
 - [ForensicPosters](https://github.com/Invoke-IR/ForensicPosters) - Posters of file system structures
 - [SANS Posters](https://www.sans.org/posters) - Free posters provided by SANS
 
